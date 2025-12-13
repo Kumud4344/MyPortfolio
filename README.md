@@ -1,3 +1,3 @@
-assets/img/perfil.png 
+assets/img/perfil.png
 Change it to
-MyPortfolio-main\assets\img\perfils.jpg
+C:\Users\RAJ\Downloads\MyPortfolio-main\MyPortfolio-main\assets\img\perfil.jpg
