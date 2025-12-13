@@ -1,3 +1,3 @@
 assets/img/perfil.png 
 Change it to
-MyPortfolio-main\assets\img\perfil.jpg
+MyPortfolio-main\assets\img\perfils.jpg
